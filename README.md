@@ -1,25 +1,5 @@
-## PixiJS v5. Endless background
+## PixiJS Denemesi
 
-One of the way to easily create a background which has no end using just a single image
+Dikkat: PixiJs i ben de yeni öğreniyorum o yüzden bunu okuyorsanız kodlar sizi yanlış yollara götürebilir dikkat edin efendim!!!
 
-Install dependencies:
-```
-npm i
-```
-
-Run on http://localhost:3000:
-```
-npm start
-```
-
-#### Building
-
-Development build:
-```
-npm run build
-```
-
-Production build:
-```
-npm run production
-```
+Warning:I am also learning PixiJs this is my first try so codes might be horribly wrong use it on your own risk!!!  
